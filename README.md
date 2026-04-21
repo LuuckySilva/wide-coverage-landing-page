@@ -1,52 +1,48 @@
-# 🚀 Projeto: Landing Page - Wide Coverage Location
+# Wide Coverage Landing Page
 
-Bem-vindo(a)!
+Responsive landing page developed with HTML5, CSS3, and JavaScript, focused on modern visual presentation, clear content hierarchy, and a polished experience on desktop and mobile devices.
 
-Este projeto é uma **Landing Page estática** desenvolvida utilizando **HTML5** e **CSS3** como parte da minha formação inicial em desenvolvimento web.  
-Foi criado para praticar estruturação e estilização de páginas, focando em um design moderno e claro.
+## About the project
 
-## 🛠 Tecnologias utilizadas
+This project simulates the homepage of a mobility service platform. The interface was built to present a clean hero section, highlight the brand message, and guide the user to key actions through clear call-to-action buttons.
 
-- **HTML5**  
-- **CSS3**
+## Technologies used
 
-## 📄 Descrição do projeto
+- HTML5
+- CSS3
+- JavaScript
 
-O projeto é uma página inicial para um serviço de mobilidade urbana, com:
+## Features
 
-- **Menu de navegação** com seções como Products, Company, Blog, Login e Sign up
-- **Botão de destaque** (Call to Action - "Sign up")
-- **Imagem ilustrativa** para tornar o site visualmente mais atrativo
-- **Design focado na simplicidade** e boa distribuição de conteúdo
+- Semantic page structure
+- Responsive layout for desktop and mobile
+- Mobile navigation menu with toggle interaction
+- Primary and secondary call-to-action buttons
+- Improved spacing, typography, and visual hierarchy
 
-> ⚡ **Observação:** Este projeto **não é responsivo** para dispositivos móveis (ainda).  
-> Foi desenvolvido com foco no aprendizado de estrutura e estilização básicas.
+## Project goals
 
-## 🎯 Objetivo do projeto
+- Practice building professional landing pages
+- Improve responsive design skills
+- Strengthen layout composition with CSS
+- Add lightweight interactivity with JavaScript
 
-- Praticar a criação de layouts com **HTML** e **CSS**
-- Trabalhar conceitos de **hierarquia visual**, **tipografia** e **espaçamento**
-- Aprender a organizar o código de maneira clara e semântica
+## Future improvements
 
-## 📚 Aprendizados até aqui
+- Add real navigation sections on the page
+- Include subtle scroll animations
+- Improve accessibility with keyboard navigation refinements
+- Replace placeholder actions with functional links
 
-Durante o desenvolvimento, pratiquei:
+## Preview
 
-- Estruturação correta de páginas web utilizando HTML semântico
-- Estilização de componentes básicos com CSS
-- Organização de conteúdo para melhor legibilidade
+Add a real screenshot or GIF preview of the final version here.
 
-## 🧠 Melhorias futuras
+## Deploy
 
-- Adicionar responsividade para diferentes tamanhos de tela (media queries)
-- Implementar interações básicas com efeitos de hover
-- Melhorar a acessibilidade da página
-- Explorar o uso de CSS Grid e Flexbox de forma mais avançada
-- Iniciar a integração de elementos interativos utilizando **JavaScript**
+[View project online](https://luuckysilva.github.io/wide-coverage-landing-page/)
 
-## 📬 Contato
+## Contact
 
-Quer entrar em contato comigo?
-
--- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
 - E-mail: lukasantonyo@gmail.com
