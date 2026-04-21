@@ -36,7 +36,8 @@ This project simulates the homepage of a mobility service platform. The interfac
 
 ## Preview
 
-Add a real screenshot or GIF preview of the final version here.
+<img width="1912" height="969" alt="image" src="https://github.com/user-attachments/assets/f4712a36-41b1-4fa1-bf98-10e6e5ef67ba" />
+
 
 ## Deploy
 
@@ -44,5 +45,5 @@ Add a real screenshot or GIF preview of the final version here.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- [LinkedIn] (www.linkedin.com/in/olucas-silvaa)
 - E-mail: lukasantonyo@gmail.com
