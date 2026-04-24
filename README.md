@@ -28,7 +28,7 @@ Simulação da homepage de uma plataforma de mobilidade. O projeto foi construí
 
 ## 🖼️ Preview
 
-![Preview do projeto](assets/nome-da-image.png)
+![Preview do projeto](assets/image.png)
 
 > Caso a imagem não carregue, [acesse o deploy](https://luuckysilva.github.io/wide-coverage-landing-page/) diretamente.
 
