@@ -1,49 +1,72 @@
-# Wide Coverage Landing Page
+# Wide Coverage — Landing Page
 
-Responsive landing page developed with HTML5, CSS3, and JavaScript, focused on modern visual presentation, clear content hierarchy, and a polished experience on desktop and mobile devices.
+> Landing page responsiva para plataforma de mobilidade urbana, com foco em hierarquia visual, copy estratégico e experiência fluida em todos os dispositivos.
 
-## About the project
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-This project simulates the homepage of a mobility service platform. The interface was built to present a clean hero section, highlight the brand message, and guide the user to key actions through clear call-to-action buttons.
+🔗 **[Ver projeto online](https://luuckysilva.github.io/wide-coverage-landing-page/)**
 
-## Technologies used
+---
 
-- HTML5
-- CSS3
-- JavaScript
+## 📋 Sobre o projeto
 
-## Features
+Simulação da homepage de uma plataforma de mobilidade. O projeto foi construído para demonstrar domínio de layout responsivo, composição visual com CSS e interatividade leve com JavaScript — com foco total na experiência do usuário em desktop e mobile.
 
-- Semantic page structure
-- Responsive layout for desktop and mobile
-- Mobile navigation menu with toggle interaction
-- Primary and secondary call-to-action buttons
-- Improved spacing, typography, and visual hierarchy
+---
 
-## Project goals
+## ✦ Funcionalidades
 
-- Practice building professional landing pages
-- Improve responsive design skills
-- Strengthen layout composition with CSS
-- Add lightweight interactivity with JavaScript
+- Layout responsivo para desktop e mobile
+- Menu de navegação mobile com toggle interativo
+- Hero section com CTAs primário e secundário
+- Hierarquia tipográfica e espaçamento refinados
+- Estrutura semântica em HTML5
 
-## Future improvements
+---
 
-- Add real navigation sections on the page
-- Include subtle scroll animations
-- Improve accessibility with keyboard navigation refinements
-- Replace placeholder actions with functional links
+## 🖼️ Preview
 
-## Preview
+![Preview do projeto](assets/nome-da-image.png)
 
-<img width="1912" height="969" alt="image" src="https://github.com/user-attachments/assets/f4712a36-41b1-4fa1-bf98-10e6e5ef67ba" />
+> Caso a imagem não carregue, [acesse o deploy](https://luuckysilva.github.io/wide-coverage-landing-page/) diretamente.
 
+---
 
-## Deploy
+## 📁 Estrutura do projeto
 
-[View project online](https://luuckysilva.github.io/wide-coverage-landing-page/)
+```
+wide-coverage-landing-page/
+├── assets/          # Imagens e recursos visuais
+├── index.html       # Estrutura da página
+├── styles.css       # Estilização completa
+└── script.js        # Interatividade (menu mobile)
+```
 
-## Contact
+---
 
-- [LinkedIn] (www.linkedin.com/in/olucas-silvaa)
-- E-mail: lukasantonyo@gmail.com
+## 🎯 Objetivos de aprendizado
+
+- Praticar construção de landing pages profissionais
+- Aprimorar design responsivo com CSS puro
+- Fortalecer composição de layout e hierarquia visual
+- Adicionar interatividade real com JavaScript vanilla
+
+---
+
+## 🚀 Melhorias futuras
+
+- [ ] Adicionar animações de scroll reveal
+- [ ] Conectar CTAs a seções reais da página
+- [ ] Melhorar acessibilidade com navegação por teclado
+- [ ] Adicionar modo escuro
+
+---
+
+## 👨‍💻 Autor
+
+**Lucas Silva**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-403412a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuuckySilva)
